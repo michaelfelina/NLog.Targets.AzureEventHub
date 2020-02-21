@@ -3,3 +3,6 @@
 ################################################################################
 
 /NLog.Targets.AzureEventHub/bin/Debug
+/NLog.Targets.AzureEventHub/obj
+/.vs
+/NLog.Targets.AzureEventHub/.vs/NLog.Targets.AzureEventHub
